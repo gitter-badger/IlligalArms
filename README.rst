@@ -2,6 +2,10 @@
 Illigal Arms（イリーガル・アームズ）
 #########################################################
 
+.. image:: https://badges.gitter.im/IlligalArms/community.svg
+   :alt: Join the chat at https://gitter.im/IlligalArms/community
+   :target: https://gitter.im/IlligalArms/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 公開共同ビジュアルノベル制作プロジェクトです。
 
 `Ren'Py <https://www.renpy.org/>`_ を利用して制作します。
